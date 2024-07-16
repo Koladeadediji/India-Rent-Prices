@@ -6,3 +6,6 @@ The objective of this project is to extract insights from the data to make infor
 ## Dataset
 
 The dataset used for this analysis is sourced from kaggle data catalogue, accesible at the following link :  https://www.kaggle.com/datasets/ahmedelbashir99/house-rent-dataset
+
+## Observation 
+Valuable Insights was drawn from the dataset and was further explained and visualized in `India Rent Agency.html` and prresentation in ` INDIA RENT.pdf`
